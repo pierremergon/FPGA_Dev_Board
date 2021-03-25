@@ -1,3 +1,8 @@
 Record=TopLevelDocument|FileName=Block Diagram.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Block Diagram.SchDoc|FileName=DDR RAM.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=Block Diagram.SchDoc|FileName=FPGA Power.SchDoc|SheetNumber=3
 Record=NoMainPathDocument|SourceDocument=Block Diagram.SchDoc|FileName=FPGA_Dev_Board.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=Block Diagram.SchDoc|FileName=SPI Flash.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Block Diagram.SchDoc|FileName=Peripherals.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Block Diagram.SchDoc|FileName=PMICs.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=Block Diagram.SchDoc|FileName=Sensors.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=Block Diagram.SchDoc|FileName=SPI Flash.SchDoc|SheetNumber=5
