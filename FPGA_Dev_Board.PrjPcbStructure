@@ -1,5 +1,5 @@
 Record=TopLevelDocument|FileName=Block Diagram.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=Block Diagram.SchDoc|FileName=DDR RAM.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=Block Diagram.SchDoc|FileName=DRAM.SchDoc|SheetNumber=7
 Record=NoMainPathDocument|SourceDocument=Block Diagram.SchDoc|FileName=FPGA_Dev_Board.SchDoc|SheetNumber=2
 Record=NoMainPathDocument|SourceDocument=Block Diagram.SchDoc|FileName=Peripherals.SchDoc|SheetNumber=3
 Record=NoMainPathDocument|SourceDocument=Block Diagram.SchDoc|FileName=PMICs.SchDoc|SheetNumber=5
