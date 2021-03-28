@@ -41,6 +41,40 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=..\..\..\..\Downloads\ul_IS42S16100H7TL\AltiumDesigner\2021-03-27_01-43-01\IS42S16100H-7TL.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LQSXIBRW
+
+[Document2]
+DocumentPath=..\..\..\..\Downloads\TPS65261RHBR\IC_ADS125H01IRHBT.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CHVHBOFW
+
+[Document3]
 DocumentPath=..\..\..\..\Downloads\TPS65261RHBR\TPS65261RHBR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -57,7 +91,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HJVAJTVF
 
-[Document2]
+[Document4]
 DocumentPath=..\..\..\..\Downloads\ul_IS42S16100H7TL\AltiumDesigner\2021-03-27_01-43-01\IS42S16100H-7TL.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -74,7 +108,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EKBVLXCY
 
-[Document3]
+[Document5]
 DocumentPath=Block Diagram.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -91,7 +125,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OIJLJORP
 
-[Document4]
+[Document6]
 DocumentPath=FPGA_Dev_Board.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -108,7 +142,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HEPMIDFF
 
-[Document5]
+[Document7]
 DocumentPath=Peripherals.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -125,7 +159,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SJLVMVPU
 
-[Document6]
+[Document8]
 DocumentPath=SPI Flash.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -142,7 +176,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=APSSGPYH
 
-[Document7]
+[Document9]
 DocumentPath=PMICs.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -159,7 +193,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WLPYZOEX
 
-[Document8]
+[Document10]
 DocumentPath=Sensors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -176,7 +210,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CYABKAQC
 
-[Document9]
+[Document11]
 DocumentPath=DRAM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
