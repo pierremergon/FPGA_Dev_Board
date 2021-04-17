@@ -160,23 +160,6 @@ GenerateClassCluster=0
 DocumentUniqueId=WLPYZOEX
 
 [Document8]
-DocumentPath=Peripherals.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=SJLVMVPU
-
-[Document9]
 DocumentPath=SPI Flash.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -192,6 +175,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=APSSGPYH
+
+[Document9]
+DocumentPath=DRAM.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MJZUZRXO
 
 [Document10]
 DocumentPath=Sensors.SchDoc
@@ -211,7 +211,7 @@ GenerateClassCluster=0
 DocumentUniqueId=CYABKAQC
 
 [Document11]
-DocumentPath=DRAM.SchDoc
+DocumentPath=Peripherals.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -225,7 +225,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=MJZUZRXO
+DocumentUniqueId=SJLVMVPU
 
 [Configuration1]
 Name=Sources
